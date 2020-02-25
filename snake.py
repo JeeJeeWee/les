@@ -1,5 +1,16 @@
+import math
+import random
+import pygame
+import tkinter as tk
+from tkinter import messagbox
+
+
+
+
+
+
+
 class Snake:
-    # Alles wat de snake kan, wordt een method
 
     def move(self):
         pass
@@ -7,11 +18,8 @@ class Snake:
     def grow(self):
         pass
 
-    # method voor kleur veranderen
 
-    # method voor levens verliezen
 
-# class voor eten aanmaken
 
-# class voor muur
-
+class cube:
+    
